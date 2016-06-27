@@ -8,6 +8,7 @@ public class Entry {
 		Service service = new Service();
 		
 		System.out.println("Initiated");
+		System.out.println("Terminated");
 	}
 
 }
